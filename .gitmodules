@@ -1,0 +1,3 @@
+[submodule "SandyFluid"]
+	path = SandyFluid
+	url = https://github.com/ethz-pbs21/SandyFluid.git
