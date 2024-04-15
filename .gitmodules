@@ -1,3 +1,6 @@
 [submodule "SandyFluid"]
 	path = SandyFluid
 	url = https://github.com/ethz-pbs21/SandyFluid.git
+[submodule "taichi_elements"]
+	path = taichi_elements
+	url = https://github.com/taichi-dev/taichi_elements.git
